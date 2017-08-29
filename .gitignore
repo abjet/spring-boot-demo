@@ -3,3 +3,7 @@
 .classpath
 .settings/*
 bin/*
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.springbootdemo/springbootdemo/pom.properties
+target/classes/META-INF/maven/com.springbootdemo/springbootdemo/pom.xml
+target/classes/application.properties
