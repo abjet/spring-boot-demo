@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: springbootdemo
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: abhijit
+Built-By: Abhijit
 Implementation-Vendor-Id: com.springbootdemo
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_101
 Implementation-URL: http://projects.spring.io/spring-boot/springbootde
  mo/
 Created-By: Maven Integration for Eclipse
